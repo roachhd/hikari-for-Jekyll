@@ -4,7 +4,7 @@ Hikari is an open-source [Jekyll](http://jekyllrb.com) theme perfect for dev-sav
 
 - SCSS!
 - Responsive
-- Lightweight (no JS library has been abused here)
+- Lightweight (no JS library has been abused here) 
 
 ![preview](https://dl.dropboxusercontent.com/u/7539881/Hikari/hikari-screenshot.png)
 
